@@ -1,3 +1,3 @@
 # website-portfolio
 
-### A website and portfolio for practice.
+A website and portfolio for practice.
